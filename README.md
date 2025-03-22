@@ -4,7 +4,7 @@ This repository presents a complete pipeline for detecting and analyzing protein
 
 ## 🔬 Task Overview
 
-- **Target**: Protein of interest (e.g., PD-1)
+- **Target**: Protein of interest:  **3BIK**, which is a protein structure of human **PD-1**, a key immune checkpoint receptor involved in downregulating immune responses, making it a critical target in **cancer immunotherapy**.
 - **Goal**: Detect potential binding pockets and analyze their dynamic behavior under simulated physiological conditions.
 
 ## 🧪 Workflow Summary
