@@ -25,6 +25,5 @@ This repository presents a complete pipeline for detecting and analyzing protein
 
 ## 📁 Contents
 
-- `binding_pocket_fpocket.py` – Fpocket analysis and visualization
-- `gromacs_md_simulation_mdanalysis.py` – MD simulation analysis using MDAnalysis
-- `combined_fpocket_gromacs_analysis.py` – Unified pipeline
+- `binding_pocket_md_simulation.py` – Unified pipeline
+- `Notebooks` – Google Colab Notebooks
